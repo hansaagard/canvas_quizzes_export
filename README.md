@@ -2,6 +2,7 @@
 
 This project consists of two Python scripts that interact with the Canvas LMS API to export quiz content and format it into a structured text file.
 
+**NOTE - this currently only works on classic quizzes! I'm still working on new quizzes. It will list them but will not export any real data for them.**
 ## **Setup**
 ### **1. Install Dependencies**
 Ensure you have Python installed, then install the required dependencies:
