@@ -53,5 +53,3 @@ python quiz_export.py
 1. Run `quiz_list.py` and provide a **Canvas Course ID**.
 2. The script pulls quizzes and saves them as `.json` in `exported_quizzes/`.
 3. Run `quiz_export.py` to format the JSON data into `quiz_export.txt`.
-
-🚀 **Your quizzes are now exported and formatted!**
